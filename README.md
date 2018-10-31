@@ -1,2 +1,2 @@
 # React
-React projects
+Hobby projects written in React.
