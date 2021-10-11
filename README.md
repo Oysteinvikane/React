@@ -1,2 +1,3 @@
-# React
-Hobby projects written in React.
+## React crash course from Stackskills.
+
+
