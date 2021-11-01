@@ -4,6 +4,6 @@ Project from a React crash course i took on stackskills.com
 
 Link to course: https://stackskills.com/p/react-quick-and-easy1
 
-The project was a real estate overview.
+The project was overview page over real estates for sale.
 
 
